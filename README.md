@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently a Senior Manager in the Data Science team at GitHub.
+🗺️ Working remotely from Boston, Massachusetts.
+
 <!--
 **julianeagu/julianeagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
