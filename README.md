@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently a Senior Manager in the Data Science team at GitHub.
+
 🗺️ Working remotely from Boston, Massachusetts.
 
 <!--
