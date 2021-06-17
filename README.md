@@ -4,6 +4,8 @@
 
 🗺️ Working remotely from Boston, Massachusetts.
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/julianeagu/)
+
 <!--
 **julianeagu/julianeagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
