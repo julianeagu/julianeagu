@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently a Senior Manager in the Data Science team at GitHub.
+🔭 I’m currently a Director of Data Science for Copilot at GitHub.
 
 🗺️ Working remotely from Boston, Massachusetts.
 
