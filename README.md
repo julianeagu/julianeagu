@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently a Director of Data Science for Copilot at GitHub.
+🔭 Currently building [Quotient AI](https://github.com/quotient-ai)
 
-🗺️ Working remotely from Boston, Massachusetts.
+🗺️ Headquartered in Boston, Massachusetts.
 
 <!--
 **julianeagu/julianeagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
